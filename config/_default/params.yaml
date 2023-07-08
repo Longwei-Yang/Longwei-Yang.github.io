@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A pernonal website of Longwei Yang.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Longwei Yang. '
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
+      enable: false
+      allow_derivatives: true
+      share_alike: False
       allow_commercial: false
 
 # Localization
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Longwei-Yang/Longwei-Yang.github.io'
     content_dir: content
     branch: main
   avatar:
