@@ -78,5 +78,5 @@ email: 'yanglongwei1997@gmail.com'
 highlight_name: true
 ---
 
-I am looking for a Ph.D. position for 2024 Fall. I received my M.Eng. degree at Tsinghua University advised by [Prof. Wei Chen](https://scholar.google.com.hk/citations?user=aMdqgF8AAAAJ&hl=zh-CN) in 2021 
+I am looking for a Ph.D. position for 2024 Fall. I received my M.Eng. degree at Tsinghua University advised by [Prof. Wei Chen](https://scholar.google.com.hk/citations?user=aMdqgF8AAAAJ&hl=zh-CN) in 2021. 
 {style="text-align: justify;"}
