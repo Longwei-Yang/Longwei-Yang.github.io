@@ -37,7 +37,7 @@ education:
     - course: M.Eng. in Electronics and Communication Engineering
       institution: Tsinghua University
       year: 2021
-    - course: B.S. in Network Engineering
+    - course: B.Eng. in Network Engineering
       institution: University of Electronic Science and Technology of China (UESTC)
       year: 2018
 
@@ -78,5 +78,5 @@ email: 'yanglongwei1997@gmail.com'
 highlight_name: true
 ---
 
-I am looking for a Ph.D. position for 2024 Fall. I received my M.Eng. degree at Tsinghua University advised by [Prof. Wei Chen](https://scholar.google.com.hk/citations?user=aMdqgF8AAAAJ&hl=zh-CN) in 2021. 
+I am looking for a Ph.D. position for 2024 Fall. I received my M.Eng. degree at Tsinghua University in 2021, advised by [Prof. Wei Chen](https://scholar.google.com.hk/citations?user=aMdqgF8AAAAJ&hl=zh-CN). I received my B.Eng. degree at University of Electronic Science and Technology of China (UESTC) in 2018. I worked as Algorithm System Engineer in Huawei for almost two years from 2021 to 2023. My primary research interests lie in Communications for AI, Integrated Sensing and Communication (ISAC), and Machine Learning.
 {style="text-align: justify;"}

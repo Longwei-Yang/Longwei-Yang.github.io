@@ -1,16 +1,21 @@
 ---
-title: "An example journal article"
+title: "Delay Analysis of Wireless Federated Learning Based on Saddle Point Approximation and Large Deviation Theory"
 authors:
+- Lintao Li
 - admin
-- Robert Ford
+- Xin Guo
+- Yuanming Shi
+- Haiming Wang
+- Wei Chen
+- Khaled B. Letaief
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Journal on Selected Areas in Communications*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  Federated learning (FL) is a collaborative machine learning paradigm, which enables deep learning model training over a large volume of decentralized data residing in mobile devices without accessing clients’ private data. Driven by the ever increasing demand for model training of mobile applications or devices, a vast majority of FL tasks are implemented over wireless fading channels. Due to the time-varying nature of wireless channels, however, random delay occurs in both the uplink and downlink transmissions of FL. How to analyze the overall time consumption of a wireless FL task, or more specifically, a FL’s delay distribution, becomes a challenging but important open problem, especially for delay-sensitive model training. In this paper, we present a unified framework to calculate the approximate delay distributions of FL over arbitrary fading channels. Specifically, saddle point approximation, extreme value theory (EVT), and large deviation theory (LDT) are jointly exploited to find the approximate delay distribution along with its tail distribution, which characterizes the quality-of-service of a wireless FL system. Simulation results will demonstrate that our approximation method achieves a small approximation error, which vanishes with the increase of training accuracy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a unified framework to calculate the approximate delay distributions of FL over arbitrary fading channels. 
 
 tags:
 - Source Themes
@@ -34,8 +39,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -62,15 +67,15 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
