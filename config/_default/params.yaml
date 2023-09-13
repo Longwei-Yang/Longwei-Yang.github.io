@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Longwei Yang. '
+    notice: '© {year} Longwei Yang'
     license:
       enable: false
       allow_derivatives: true
