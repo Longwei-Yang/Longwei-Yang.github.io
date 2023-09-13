@@ -241,7 +241,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: yanglongwei1997@gmail.com
+      email: ylw18@tsinghua.org.cn
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
